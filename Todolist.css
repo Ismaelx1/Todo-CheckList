@@ -1,0 +1,50 @@
+body {
+    background-color: black;
+    min-width: 500px;
+}
+
+button {
+    background-color: #1da2dc;
+    font-weight: bolder;
+    font-size: 15px;
+    color: azure;
+    padding: 10px 15px 10px 15px;
+    border: none;
+    height: fit-content;
+    width: 110px;
+    margin-top: 5px;
+    border-radius: 8px;
+}
+
+#input-field {
+width: 400px;
+height: 40px;
+border: none;
+border-radius: 8px;
+padding-left: 10px;
+}
+
+#clearall:hover {
+    background-color: red;
+  
+}
+#input-btn:hover {
+    background-color: lightslategray;
+}
+.div1 {
+ position: relative;
+ margin-left: 40px;
+    width: 400px;
+}
+
+ul {
+    list-style: none;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.div2 {
+    display: flex;
+    justify-content: space-around;
+}
