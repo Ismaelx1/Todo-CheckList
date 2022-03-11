@@ -1,4 +1,5 @@
 # Todo-CheckList
+It's optimized to be an extension, preview live => https://ismaelx1.github.io/Todo-CheckList/
             This chrome extension or app would serve to motivate people into enjoying the process of learning anything by using the biological reward system of our brains.
 
 #How It'll work :
