@@ -48,3 +48,14 @@ ul {
     display: flex;
     justify-content: space-around;
 }
+
+ul > li > button {
+  background-color: red;
+  color: white;
+  border-radius: 50%;
+  height: 30px;
+  width: 30px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
